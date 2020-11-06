@@ -1,5 +1,7 @@
 # Analysis-of-Cruelity-against-women-in-India
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6487145b125b4672b25dbaed48dbd939)](https://app.codacy.com/gh/navydhara79/Analysis-of-Cruelity-against-women-in-India?utm_source=github.com&utm_medium=referral&utm_content=navydhara79/Analysis-of-Cruelity-against-women-in-India&utm_campaign=Badge_Grade)
+
 
 ## what to clean - > there are some empty values. some NA are represented as na. Some digits are written in words
 
